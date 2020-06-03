@@ -1,0 +1,103 @@
+.logoimg{
+    border-radius: 50%;
+}
+
+.navbar{
+    background-color: #113f67 !important;
+}
+
+.nav-link{
+    font-size: 25px;   
+}
+
+.linkText{
+    color: whitesmoke;
+}
+
+.nav-item{
+    padding-left: 50px;
+}
+
+.jumbotron{
+    background-color: #f3f9fb !important;
+   margin-bottom: 0px !important;
+}
+
+.jumboHeading{
+    font-family: 'Pacifico', cursive;
+    font-size: 125px;
+    color: #113f67;
+}
+
+.jumboLeft{
+    text-align: center;
+}
+
+.jumboImage{
+    border-radius: 50%;
+    height: 500px !important;
+}
+
+.buttColorJumbo{
+    background-color: #113f67 !important;
+}
+
+.text-muted{
+    padding-top: 20px;
+}
+
+.carousel-inner{
+    background-color: #87c0cd;
+    padding-top: 25px;
+    padding-bottom: 25px;
+}
+
+.carousel-item img{
+    width: auto;
+    height: 800px;
+    max-height: 800px;
+    margin: auto; 
+    display: block;
+}
+
+.cont{
+    background-color: #226597;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    
+}
+
+.row {
+    text-align: center;
+    margin: 50px;
+  }
+
+.cont2{
+      padding-top: 25px;
+      padding-bottom: 25px;
+      background-color: #113f67;
+  }
+.imgGallery{
+      height: 150px;
+      width: 150px;
+  }
+
+.contactHeader{
+    font-family: 'Pacifico', cursive;
+    color: #113f67;
+    font-size: 75px;
+}  
+.contactMain{
+    background-color: #f3f9fb;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    margin-bottom: 25px;
+}
+.contactForm{
+    margin: 0px 200px 25px 250px;
+}
+
+.buttSend{
+    background-color: #113f67 !important;
+    color: whitesmoke !important;
+}
